@@ -1,0 +1,2 @@
+level,wave,wave_type,count,health,skillDuration,damage,damageLimit,skillTntForce,skillSprintDamage,skillSuckBloodHeal,skillSuckBloodRange,skillSuckBloodWitherDuration,skillSuckBloodWitherAmplifier,skillUnderGroundDamageToPercent,skillUnderGroundRange,skillVenomSlownessDuration,skillVenomSlownessAmplifier,skillVenomPoisonDuration,skillVenomPoisonAmplifier,monsters
+2,3,bossBarmaster,1,800,80,6,50,4,15,1,6,100,0,0.3,5,100,0,100,1,l2w2

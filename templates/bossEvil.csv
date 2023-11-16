@@ -1,0 +1,2 @@
+level,wave,wave_type,mode1Health,mode1SkillDuration,mode1Damage,mode2Health,mode2SkillDuration,mode2Damage,skillFangDamage,skillFireballDamage,skillFireballEffectDuration,skillHandDamageFirst,skillHandDamageSecond,skillWindForce,skillWindDamage,skillDanmuTimes,skillDanmuDamage,skillCrystalHealingStart,skillCrystalHealingTotalHeal,monsters
+2,4,bossEvil,600,80,6,700,80,6,20,15,100,4,15,10,4,5,10,100,100,l2w2
